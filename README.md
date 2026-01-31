@@ -1,1 +1,1 @@
-I am just implementing certain concept in ml and ai 
+I am just implementing certain concept in machine learning and AI

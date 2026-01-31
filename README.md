@@ -1,1 +1,1 @@
-I am just implementing certain concept in ml form scratch 
+I am just implementing certain concept in ml and ai 
